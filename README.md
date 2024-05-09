@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Kang minjae</h1>
-<h3 align="center">A promising backend developer from Korea.</h3>
+<h1 align="left">Hi 👋, I'm Kang minjae</h1>
+<h3 align="left">A promising backend developer from Korea.</h3>
 
 - 👨‍💻 All of my projects are available at [추후에 넣을ㄹ거야](추후에 넣을ㄹ거야)
 
