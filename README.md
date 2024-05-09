@@ -1,13 +1,12 @@
 <h1 align="center">Hi 👋, I'm Kang minjae</h1>
 <h3 align="center">A promising backend developer from Korea.</h3>
 
-- 👨‍💻 All of my projects are available at [추후에 넣을ㄹ거야](추후에 넣을ㄹ거야)
+//- 👨‍💻 All of my projects are available at [추후에 넣을ㄹ거야](추후에 넣을ㄹ거야)
 
 - 📝 I regularly write articles on [https://velog.io/@kazh98/posts](https://velog.io/@kazh98/posts)
 
 - 📫 How to reach me **alswo432@naver.com**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
