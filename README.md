@@ -4,6 +4,13 @@
 
 두 번의 실수는 없다는 마인드로, 부족한 부분을 인지하고 개선하려 끈질기게 노력하며 끝끝내 인정받는 백엔드 개발자가 되겠습니다.
 
+- 👨‍💻 My portfolio are available at 
+
+- 📝 I regularly write articles on [https://velog.io/@kazh98/posts](https://velog.io/@kazh98/posts)
+
+- 📫 How to reach me **alswo432@naver.com**
+
+
 <hr>
 
 ### 사용해본 기술 스택
@@ -55,11 +62,7 @@
 - Do it! HTML+CSS+ 자바스크립트 웹표준의 정석 (고경희, 이지스퍼블링)
 
 <hr>
-- 👨‍💻 My portfolio are available at 
 
-- 📝 I regularly write articles on [https://velog.io/@kazh98/posts](https://velog.io/@kazh98/posts)
-
-- 📫 How to reach me **alswo432@naver.com**
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kazh7777&show_icons=true&locale=en&layout=compact" alt="kazh7777" /></p>
 
