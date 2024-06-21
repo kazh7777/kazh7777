@@ -33,6 +33,7 @@
 ### 프로젝트
 
 #### ✅ YourCough
+- https://github.com/Soojong94/SilJeon
 
 #### ✅ GST
 - version_01: [https://github.com/kazh7777/GST_v1](https://github.com/kazh7777/GST_v1)
